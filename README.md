@@ -1,9 +1,11 @@
-# Coachable Student Repository Github Template 
+# Coachable Student Github Template 
 A template repository that Coachable students will use in the program for Leetcode and other assignments.
 
 
 ## Instructions to fork and setup student repositiory
 - Fork this template repository to your own Github account.
+- Follow the convention for the naming of the forked repo: 
+  - `Coachable-[First Name]-[Last Name]-Repository`
 - To maintain privacy, ensure the forked repository is private.
 - Add your these list of coaches (link TBA) as collaborators to your private forked repository, granting access for review and feedback.
   - Example: https://stackoverflow.com/a/64682846/24669812
