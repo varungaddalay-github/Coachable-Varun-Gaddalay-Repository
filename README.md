@@ -4,7 +4,7 @@ A template repository that Coachable students will use in the program for Leetco
 
 ## Instructions to fork and setup student repositiory
 - Fork this template repository to your own Github account.
-- To maintain privacy, make sure to ensure the forked repository is private.
+- To maintain privacy, ensure the forked repository is private.
 - Add your these list of coaches (link TBA) as collaborators to your private forked repository, granting access for review and feedback.
   - Example: https://stackoverflow.com/a/64682846/24669812
 - [IMPORTANT] Replace the coach in `.github/CODEOWNERS` with your designated coach. This will ensure timely notifications when a Pull Request (PR) is made.
