@@ -18,3 +18,4 @@ A template repository that Coachable students will use in the program for Leetco
 - PR messages must include the leetcode problem number, loom link, and 2 - 3 word sentence summary.
   - If there are multiple commits(problems) per PR, then the PR must segment each Loom link and problem summary by Problem number using proper markdown (i.e. using separators in markdown to separate problems.)
   - [Example](https://github.com/Coachable-Dev/coachable-student-github-template/pull/1)
+  - [IMPORTANT] Please include your assigned coach as the reviewer of your PR. If you don't, your coach will not grade or review your PR because they will miss it.
